@@ -13,3 +13,9 @@
 .link-ul:hover{
     background-color: blue;
 }
+.nav a.active{
+    color: red;
+    background-color: turquoise;
+    padding: 10px;
+    overflow: hidden;
+}
