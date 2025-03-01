@@ -8,8 +8,7 @@ const About = () => {
 
             <div style={{ display: 'flex' }}>
                 <ul style={{ display: 'flex', flexDirection: 'column', width: '200px' }}>
-                    <Link className='link-ul' to={'/about'}> users</Link>
-                    <Link className='link-ul' to={'/about/product'}> Product</Link>
+                    <Link className='link-ul' to={'/about'}> Product</Link>
                     <Link className='link-ul' to={'/about/Phone'}> Phone</Link>
                 </ul>
                 <div>
