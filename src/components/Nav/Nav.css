@@ -1,0 +1,15 @@
+.nav{
+    display: flex;
+    gap: 20px;
+    background-color: blueviolet;
+    padding: 10px;
+    justify-content: center;
+}
+.link-ul{
+    text-decoration: none;
+    color: wheat;
+    padding: 10px;
+}
+.link-ul:hover{
+    background-color: blue;
+}
